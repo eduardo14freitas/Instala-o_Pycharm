@@ -5,7 +5,9 @@ apt-get install python3.9
 ver a ultima versão
 aptitude search jre
 apt-get install openjdk-14-jre
-Instalando pip
+### Instalando pip
 apt-get install python3-pip
-instalando virtualenv
+### Instalando virtualenv
 apt-get install virtualenv
+### Instalando pycharm
+snap install pycharm-community --classic
