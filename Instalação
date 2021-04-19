@@ -2,3 +2,10 @@ instalação do pycharm
 ### Instalação do python 3.9 
 apt-get install python3.9
 ### Instalação do java
+ver a ultima versão
+aptitude search jre
+apt-get install openjdk-14-jre
+Instalando pip
+apt-get install python3-pip
+instalando virtualenv
+apt-get install virtualenv
